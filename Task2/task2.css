@@ -1,0 +1,8 @@
+.box {
+	display: inline-block;
+	text-align: center;
+	-webkit-box-shadow: 10px 10px 0 0 #95e1d3;
+    box-shadow: 10px 10px 0 0 #95e1d3;
+	margin: 10px;
+	padding: 5px;
+}
